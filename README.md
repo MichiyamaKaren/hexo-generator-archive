@@ -1,15 +1,15 @@
-# hexo-generator-archive
+# hexo-archive-bychapter
 
 [![Build Status](https://github.com/hexojs/hexo-generator-archive/workflows/Tester/badge.svg)](https://github.com/hexojs/hexo-generator-archive/actions?query=workflow%3ATester)
 [![NPM version](https://badge.fury.io/js/hexo-generator-archive.svg)](https://www.npmjs.com/package/hexo-generator-archive)
 [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-archive.svg)](https://coveralls.io/r/hexojs/hexo-generator-archive?branch=master)
 
-Archive generator for [Hexo].
+Archive generator for [Hexo]. Based on [hexo-generator-archive](https://www.npmjs.com/package/hexo-generator-archive).
 
 ## Installation
 
 ``` bash
-$ npm install hexo-generator-archive --save
+$ npm install hexo-archive-bychapter --save
 ```
 
 ## Options

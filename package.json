@@ -1,6 +1,6 @@
 {
-  "name": "hexo-generator-archive",
-  "version": "2.0.0",
+  "name": "hexo-archive-bychapter",
+  "version": "1.0.0",
   "description": "Archive generator for Hexo.",
   "main": "index",
   "scripts": {
@@ -15,8 +15,11 @@
     "index.js",
     "lib/"
   ],
-  "repository": "hexojs/hexo-generator-archive",
-  "homepage": "https://hexo.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichiyamaKaren/hexo-generator-archive"
+  },
+  "homepage": "https://github.com/MichiyamaKaren/hexo-generator-archive",
   "keywords": [
     "hexo",
     "generator",
