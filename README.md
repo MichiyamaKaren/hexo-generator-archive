@@ -22,6 +22,7 @@ archive_generator:
   monthly: true
   daily: false
   order_by: -date
+  by_chapter: false
 ```
 
 - **enabled**: The default value is **true**, set to **false** if you do not want to enable the plugin
@@ -30,6 +31,7 @@ archive_generator:
 - **monthly**: Generate monthly archive.
 - **daily**: Generate daily archive.
 - **order_by**: Posts order. (Order by date descending by default)
+- **by_chapter**: Enables archive by chapter (defined in front-matter).
 
 ## License
 
