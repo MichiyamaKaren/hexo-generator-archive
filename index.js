@@ -18,7 +18,8 @@ if (!(hexo.config.archive_generator && hexo.config.archive_generator.enabled ===
     per_page,
     yearly: true,
     monthly: true,
-    daily: false
+    daily: false,
+    by_chapter: false
   }, hexo.config.archive_generator);
 
   hexo.extend.generator.register('archive', require('./lib/generator'));
